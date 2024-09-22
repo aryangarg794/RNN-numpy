@@ -5,3 +5,5 @@ venv
 uv.lock
 
 **/__pycache__
+
+IMDBDataset.csv
